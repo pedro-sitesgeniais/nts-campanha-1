@@ -16,7 +16,7 @@ export function Footer() {
           <div>
             <div className="mb-4">
               <img
-                src="/logo-branca.webp"
+                src="/logo-linha.png"
                 alt="NTS - Núcleo Tecnológico de Serviços"
                 className="h-16 w-auto"
               />
