@@ -1,7 +1,7 @@
 import { Check } from "lucide-react";
 
 const differentials = [
-  "Laboratório Acreditado RBC pelo CGCRE/INMETRO",
+  "Laboratório Acreditado RBC pelo CGCRE (Coordenação Geral de Acreditação do INMETRO)",
   "Equipe técnica especializada em validação",
   "Relatórios técnicos completos para auditoria",
   "Conformidade ANVISA, GMP e BPF",

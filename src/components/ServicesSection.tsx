@@ -17,7 +17,8 @@ const services = [
     icon: Gauge,
     title: "Calibração de Temperatura",
     description: "Calibração de termômetros, termo-higrômetros, termopares e sensores",
-    highlight: "Calibração acreditada RBC - CAL 0493",
+    highlight: "Fazemos calibração rastreada e RBC",
+    hasInmetroLink: true,
   },
   {
     icon: MapPin,
@@ -60,6 +61,16 @@ export function ServicesSection() {
                   <span className="text-xs text-muted-foreground/80 block">
                     {service.highlight}
                   </span>
+                  {service.hasInmetroLink && (
+                    <a
+                      href="http://www.inmetro.gov.br/laboratorios/rbc/consulta.asp"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-xs text-secondary underline hover:text-secondary/80 mt-2 block"
+                    >
+                      Consulte nosso escopo no INMETRO
+                    </a>
+                  )}
                 </div>
               </div>
             </div>
