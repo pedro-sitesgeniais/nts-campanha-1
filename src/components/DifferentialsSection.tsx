@@ -1,7 +1,7 @@
 import { Check } from "lucide-react";
 
 const differentials = [
-  "Data loggers calibrados com rastreabilidade RBC",
+  "Laboratório Acreditado RBC pelo CGCRE/INMETRO",
   "Equipe técnica especializada em validação",
   "Relatórios técnicos completos para auditoria",
   "Conformidade ANVISA, GMP e BPF",
@@ -19,7 +19,7 @@ export function DifferentialsSection() {
               Por que escolher a NTS para Qualificação Térmica?
             </h2>
             <p className="text-lg text-muted-foreground">
-              Mais de uma década de experiência em metrologia térmica
+              Mais de duas décadas de experiência em metrologia térmica
             </p>
           </div>
 

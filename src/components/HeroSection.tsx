@@ -4,9 +4,9 @@ import { WHATSAPP_LINK, CONTACT } from "@/lib/constants";
 import heroImage from "@/assets/hero-balance.jpg";
 
 const badges = [
-  { icon: Award, text: "RBC Inmetro" },
   { icon: FileCheck, text: "ISO/IEC 17025" },
   { icon: Shield, text: "Conformidade ANVISA" },
+  { icon: Award, text: "21 CFR Part 11 (FDA)" },
   { icon: Handshake, text: "Parceiro ANFARMAG" },
 ];
 
@@ -43,7 +43,7 @@ export function HeroSection() {
           {/* Headline */}
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6 animate-fade-up delay-100">
             Qualificação Térmica<br />
-            <span className="text-[hsl(var(--accent))]">com Laudo Certificado</span>
+            <span className="text-[hsl(var(--accent))]">com Relatório Técnico</span>
           </h1>
 
           {/* Subheadline */}

@@ -17,7 +17,7 @@ const services = [
     icon: Gauge,
     title: "Calibração de Temperatura",
     description: "Calibração de termômetros, termo-higrômetros, termopares e sensores",
-    highlight: "Certificado RBC rastreável",
+    highlight: "Calibração acreditada RBC - CAL 0493",
   },
   {
     icon: MapPin,

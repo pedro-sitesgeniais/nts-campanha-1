@@ -3,11 +3,11 @@ import { Calendar, Award, FileCheck, Shield } from "lucide-react";
 const credentials = [
   {
     icon: Calendar,
-    label: "+14 Anos de Experiência",
+    label: "+20 Anos de Experiência",
   },
   {
     icon: Award,
-    label: "Acreditação RBC CAL 0493",
+    label: "Calibração Acreditada RBC",
   },
   {
     icon: FileCheck,

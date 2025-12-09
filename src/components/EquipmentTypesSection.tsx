@@ -42,7 +42,7 @@ export function EquipmentTypesSection() {
 
         <div className="text-center bg-surface-elevated p-6 rounded-xl border border-border/50">
           <p className="text-muted-foreground">
-            Qualificação com data loggers calibrados e rastreados ao RBC/Inmetro
+            Qualificação com data loggers calibrados com rastreabilidade metrológica
           </p>
         </div>
       </div>

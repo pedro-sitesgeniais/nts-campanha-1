@@ -13,4 +13,4 @@ export const WHATSAPP_MESSAGE = encodeURIComponent(
 
 export const WHATSAPP_LINK = `https://wa.me/${CONTACT.WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`;
 
-export const PAGE_TITLE = "Qualificação Térmica com Laudo RBC | NTS";
+export const PAGE_TITLE = "Qualificação Térmica com Relatório Técnico | NTS";

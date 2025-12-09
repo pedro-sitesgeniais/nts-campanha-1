@@ -2,7 +2,7 @@ import { MapPin, Clock, Phone, Mail, Award, Shield, Handshake } from "lucide-rea
 import { CONTACT } from "@/lib/constants";
 
 const certificates = [
-  { name: "rbc", label: "RBC Inmetro", value: "CAL 0493", icon: Award },
+  { name: "rbc", label: "Acreditação RBC", value: "CAL 0493", icon: Award },
   { name: "iso", label: "Norma", value: "ISO/IEC 17025", icon: Shield },
   { name: "anfarmag", label: "Parceiro", value: "ANFARMAG", icon: Handshake },
 ];
@@ -22,7 +22,7 @@ export function Footer() {
               />
             </div>
             <p className="text-primary-foreground/70 mb-4">
-              Especialistas em qualificação térmica e mapeamento de equipamentos desde 2011.
+              Especialistas em qualificação térmica e mapeamento de equipamentos desde 2004.
             </p>
             <p className="text-sm text-primary-foreground/60">
               CNPJ: 07.283.547/0001-83
