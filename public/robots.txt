@@ -21,4 +21,4 @@ User-agent: facebookexternalhit
 Allow: /
 
 # Sitemap
-Sitemap: https://nts-campanha-1.vercel.app/sitemap.xml
+Sitemap: https://qualificacaotermica.ntscalibracao.com.br/sitemap.xml
